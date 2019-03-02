@@ -25,5 +25,5 @@ void loop(){
 ```
 
 
-*Link
-Visit me[click here](www.github/JayJSYeo)
+Link
+[My github](www.github/JayJSYeo)
