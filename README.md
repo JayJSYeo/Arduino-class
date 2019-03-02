@@ -33,4 +33,6 @@ Link
 [link 1]
 [link 2]
 
-![logo](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGt6eJjePgAhVGE7wKHUAzALwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.hanyangmart.com%2Fproducts%2F031811015-1&psig=AOvVaw1VNgqKqDQupZVWEzWA3PPX&ust=1551603723172726)
+my arduino teacher 
+
+<img src="https://github.com/JayJSYeo/led_test/blob/master/img/2016032414532029196_1_grande.jpg" width="50%">
